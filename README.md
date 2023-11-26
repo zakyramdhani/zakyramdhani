@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaky-ramdhani-701786230/)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/@apeluliatliat14?si=pfGkNJZxbpT2b3j6)
-![Gmail](https://img.shields.io/badge/-Gmail-333333%3Fstyle%3Dflat%26logo%3DMathworks?style=for-the-badge&logo=gmail&logoColor=css&labelColor=css&color=white)(mailto:sayhello@mjurnal.com)
+![Gmail](https://img.shields.io/badge/-Gmail-333333%3Fstyle%3Dflat%26logo%3DMathworks?style=for-the-badge&logo=gmail&logoColor=css&labelColor=css&color=white)
 
 ## 👨🏻‍💻 About Me
 
@@ -13,7 +13,7 @@
 
 - 📈 I'm an entry-level Data science/Data Engineer/Data Analyst
 - 💻 I am a graduate of Computer Science from University Indraprasta PGRI.
-- 🔭 I have recently graduated from the Data Science Bootcamp at Hacktiv8 [Data Science][hacktiv]!
+- 🔭 I have recently graduated from the Bootcamp at Hacktiv8 [Data Science][hacktiv]!
 - 🌱 Learning & Building more about Supervised : Regression/Classification & Unsupervised machine learning.
 
 ---
@@ -35,7 +35,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333%3Fstyle%3Dflat%26logo%3DPostgreSQL%26nbsp%3B)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=Mathworks)&nbsp;
-![SEABORN](https://img.shields.io/badge/-Seaborn-333333%3Fstyle%3Dflat%26logo%3DMathworks?style=flat&logo=seaborn&logoColor=css&labelColor=css&color=black);
+![SEABORN](https://img.shields.io/badge/-Seaborn-333333%3Fstyle%3Dflat%26logo%3DMathworks?style=flat&logo=seaborn&logoColor=css&labelColor=css&color=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
