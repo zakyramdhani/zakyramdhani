@@ -12,7 +12,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 - 📈 I'm an entry-level Data science/Data Engineer/Data Analyst
-- 💻 I am a graduate of Computer Science from University Indraprasta PGRI.
+- 💻 I am a graduate of Informatics Engineering from University Indraprasta PGRI.
 - 🔭 I have recently graduated from the Bootcamp at Hacktiv8 [Data Science][hacktiv]!
 - 🌱 Learning & Building more about Supervised : Regression/Classification & Unsupervised machine learning.
 
